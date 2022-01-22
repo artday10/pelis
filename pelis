@@ -1,59 +1,365 @@
 #EXTM3U
 
+#EXTINF:0 group-title="VARIOS" tvg-logo="https://pics.filmaffinity.com/ready_player_one-508487059-mmed.jpg", READY PLAYER ONE
+https://ia601509.us.archive.org/14/items/r-347-974y-3r/r347%20974y3r.mp4
 
-#EXTINF:0  ,SPACE JAM
-http://51.77.66.14/Space.Jam.a.New.Legacy.2021.1080p.mkv
-#EXTINF:0  ,DETECTIVE PICACHU
-http://51.77.66.14/Pokemon.Detective.Pikachu.(2019).1080p.BDRip-Latino.mkv
-#EXTINF:0 ,HISTORIAS CRUZADAS
-http://www.educacionadistancia.eneo.unam.mx/peliculas/Historias%20Cruzadas1.mp4
-#EXTINF:0  ,ROMA
-http://51.77.66.14/Roma.2018.1080p.WEB-DL.x264-iKA.mkv
-#EXTINF:0  ,DUMBO
-http://51.77.66.14/Dumbo%20(2019)%20BDRip%201080p%20Latino.mkv
-#EXTINF:0 ,RAPIDO Y FURIOSO 1
-http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pido%20y%20Furioso%202001%20REMUX%204K%20HDR%20Latino.mkv
-#EXTINF:0 ,RAPIDO Y FURIOSO 2
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_butterfly_effect-524611973-mmed.jpg", EFECTO MARIPOSA 1
+https://ia801400.us.archive.org/22/items/c-0rr-3r-3/m4r19054%201.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_butterfly_effect_2-151304139-mmed.jpg", EFECTO MARIPOSA 2
+https://ia801400.us.archive.org/22/items/c-0rr-3r-3/m4r19054%202.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/the_blue_lagoon-177384327-mmed.jpg", LA LAGUNA AZUL
+https://ia601500.us.archive.org/27/items/l-46un-4-1/l46un4%201.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/return_to_the_blue_lagoon-295216161-mmed.jpg", EL REGRESO A LA LAGUNA AZUL
+https://ia601500.us.archive.org/27/items/l-46un-4-1/l46un4%202.mp4
+
+#EXTINF:0 group-title="VARIOS" tvg-logo="https://pics.filmaffinity.com/el_infierno-441063580-mmed.jpg", El Infierno
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/best_of_the_best-541674850-mmed.jpg", CASTA DE CAMPEONES
+https://ia601401.us.archive.org/16/items/c4sc4m2/c4sc4m.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/best_of_the_best_2-546890404-mmed.jpg", CASTA DE CAMPEONES 2
+https://ia801401.us.archive.org/16/items/c4sc4m2/c4sc4m2.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/best_of_the_best_3_no_turning_back-643887831-mmed.jpg",CAMPEON DE CAMPEONES 3
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Campe%c3%b3n%20de%20Campeones%203%20La%20Ley%20del%20Odio.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/best_of_the_best_without_warning-292651984-mmed.jpg",CAMPEON DE CAMPEONES 4
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/CAMPEON%20DE%20CAMPEONES%204%20SIN%20ALIENTO.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://i.ytimg.com/vi/Lq9k6-IoL7Q/movieposter.jpg", KARATE KID
+https://ia801508.us.archive.org/32/items/k4r473_202010/k4r473.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://www.filmaboutit.com/data/shp/images/8mZZYZWlqxxp90U7sBmOnI4UZt5.jpg", KARATE KID 2
+https://ia801507.us.archive.org/13/items/k4r473/K4r473%202.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/518Z7437YxL._AC_SY445_.jpg", KARATE KID 3
+https://ia801507.us.archive.org/13/items/k4r473/K4r473%203.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91NHM%2B2a12L._AC_SL1500_.jpg", KARATE KID 4
+https://ia801507.us.archive.org/13/items/k4r473/K4r473%204.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://www.ecured.cu/images/8/8d/Peliculas_4.JPG", RAMBO
+https://ia801505.us.archive.org/25/items/r-4m-80-3/r4m80%201.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://cloud10.todocoleccion.online/cine-fotos-postales/tc/2019/01/15/21/147091525_1547585694E83627D0.jpg", RAMBO 2
+https://ia801505.us.archive.org/25/items/r-4m-80-3/r4m80%202.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://cloud10.todocoleccion.online/cine-peliculas-16-mm/tc/2017/09/16/01/97968803.jpg", RAMBO 3
+https://ia801505.us.archive.org/25/items/r-4m-80-3/r4m80%203.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://i.pinimg.com/originals/01/ee/20/01ee200df2787acc5bb00af3620af96f.jpg", RAMBO 4
+https://ia801505.us.archive.org/25/items/r-4m-80-3/r4m80%204.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/rambo_last_blood-756933079-mmed.jpg", RAMBO 5
+https://ia601505.us.archive.org/25/items/r-4m-80-3/r4m80%205.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/14/13/49/384885.jpg", DEPREDADOR
+https://ia801508.us.archive.org/16/items/a-d-39r-3d-4d-0r/d39r3d4d0r%201.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/Depredador_2-353723034-large.jpg", DEPREDADOR 2
+https://ia801508.us.archive.org/16/items/a-d-39r-3d-4d-0r/d39r3d4d0r%202.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://1.bp.blogspot.com/_i0m2gJye5ts/R4ww5_swb4I/AAAAAAAAA8A/-TmYB8-tuTk/s320/aliens-vs-predator_opt2_.jpg", ALIEN VS DEPREDADOR
+https://ia801508.us.archive.org/16/items/a-d-39r-3d-4d-0r/a%20d39r3d4d0r%20.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/67/20/19/20237425.jpg", ALIEN VS DEPREDADOR 2
+https://ia801508.us.archive.org/16/items/a-d-39r-3d-4d-0r/a%20d39r3d4d0r%202.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://s3.amazonaws.com/statics3.cinemex.com/movie_posters/UoAV9bzMxxpP0HB-360x540.jpg", DEPREDADOR 2018 
+https://ia801508.us.archive.org/16/items/a-d-39r-3d-4d-0r/d39r3d4d0r%204.mp4
+
+#EXTINF:0 group-title="CLASICAS"tvg-logo="https://pics.filmaffinity.com/the_warriors-318229443-mmed.jpg",LOS GUERREROS
+https://ia801505.us.archive.org/25/items/r-4m-80-3/w4rr10r5.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/cool_runnings-296855521-mmed.jpg", JAMAICA BAJO CERO
+https://ia801500.us.archive.org/29/items/h-477033-3/j4m41c4.mp4
+
+#EXTINF:0 group-title="CLASICAS"tvg-logo="https://pics.filmaffinity.com/look_who_s_talking-787370156-mmed.jpg", MIRA QUIEN HABLA
+https://ia801406.us.archive.org/21/items/miquienhab-1/miquienhab%20%281%29.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/look_who_s_talking_too-640685308-mmed.jpg", MIRA QUIEN HABLA TAMBIEN
+https://ia601409.us.archive.org/4/items/mqh487a/mqh487a.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/look_who_s_talking_now-502736500-mmed.jpg", MIRA QUIEN HABLA AHORA
+https://ia801406.us.archive.org/21/items/miquienhab-1/miquienhab%203.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/home_alone-163260879-mmed.jpg", MI POBRE ANGELITO
+https://ia801408.us.archive.org/22/items/4-n-637170-2/4N637170%20%201.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/home_alone_2_lost_in_new_york-122355314-mmed.jpg", MI POBRE ANGELITO 2
+https://ia801408.us.archive.org/22/items/4-n-637170-2/4N637170%202.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/bumblebee_direct_line_s-728994832-mmed.jpg",BUMBBELBE
+http://51.77.66.14/Bumblebee.2018.WEBDL.1080p.H264.mkv
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/twilight-976997289-mmed.jpg" , CREPUSCULO
+https://ia601504.us.archive.org/31/items/cr-39u-5cu-70-2/cr39u5cu70%201.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-mmed.jpg" , LUNA NUEVA
+https://ia801504.us.archive.org/31/items/cr-39u-5cu-70-2/cr39u5cu70%202.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_eclipse_twilight_3-285102910-mmed.jpg" , ECLIPSE
+https://ia801504.us.archive.org/31/items/cr-39u-5cu-70-2/Cr39u5cu70%203.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_1-471141705-mmed.jpg" , AMANECER PARTE 1
+https://ia801509.us.archive.org/14/items/h-4m-873-2/cr39u5cu70%204.mp4?cnt=0
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_2-874720065-mmed.jpg" , AMANECER PARTE 2
+https://ia801509.us.archive.org/14/items/h-4m-873-2/cr39u5cu70%205.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_hunger_games-928932298-mmed.jpg", JUEGOS DEL HAMBRE
+https://ia601509.us.archive.org/14/items/h-4m-873-2/h4m873%201.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_hunger_games_catching_fire-833694178-mmed.jpg", JUEGOS DEL HAMBRE EN LLAMAS
+https://ia801509.us.archive.org/14/items/h-4m-873-2/h4m873%202.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_hunger_games_mockingjay_part_i-441255048-mmed.jpg", SINSAJO PARTE 1
+https://ia801509.us.archive.org/14/items/h-4m-873-2/h4m873%203.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_hunger_games_mockingjay_part_2-413766198-mmed.jpg", SINSAJO PARTE 2
+https://ia601509.us.archive.org/14/items/h-4m-873-2/h4m873%204.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/wrong_turn-113985199-mmed.jpg", CAMINO HACIA EL TERROR
+https://ia601409.us.archive.org/17/items/c-4-m-1-n-0-2/C4M1N0.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/wrong_turn_2_dead_end-533595064-mmed.jpg", CAMINO HACIA EL TERROR 2
+https://ia601409.us.archive.org/17/items/c-4-m-1-n-0-2/C4M1N0%202.mp4?cnt=0
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween-429753384-mmed.jpg", HALLOWEEN
+https://ia801401.us.archive.org/16/items/c4sc4m2/h477033.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween_ii-607028473-mmed.jpg", HALLOWEEN 2
+https://ia801500.us.archive.org/29/items/h-477033-3/h477033%202.mp4?cnt=0
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween_iii_season_of_the_witch_halloween_3-738644391-mmed.jpg", HALLOWEEN 3
+https://ia801500.us.archive.org/29/items/h-477033-3/h477033%203.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween_4_the_return_of_michael_myers-476103153-mmed.jpg", HALLOWEEN 4
+https://ia801500.us.archive.org/29/items/h-477033-3/h477033%204.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween_5_the_revenge_of_michael_myers-431909290-mmed.jpg", HALLOWEEN 5
+https://ia801509.us.archive.org/14/items/r-347-974y-3r/h477033%205.mp4?cnt=0
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween_the_curse_of_michael_myers_halloween_6-352287647-mmed.jpg", HALLOWEEN LA MALDICION
+https://ia801401.us.archive.org/18/items/h-477033-8-r-35/h477033%206%20m47.mp4?cnt=0
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween_h20_20_years_later-781909356-mmed.jpg", HALLOWEEN H20
+https://ia801401.us.archive.org/18/items/h-477033-8-r-35/h477033%207%20hve.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween_resurrection_halloween_8-597904539-mmed.jpg", HALLOWEEN RESURECCION
+https://ia601401.us.archive.org/18/items/h-477033-8-r-35/h477033%208%20r35.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween-795073773-mmed.jpg", HALLOWEEN EL ORIGEN
+https://ia601501.us.archive.org/31/items/h-477033-10-0r-163n/h477033%2010%200r163n.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween_ii_h2-903875726-mmed.jpg", HALLOWEEN II H2
+https://ia601501.us.archive.org/31/items/h-477033-10-0r-163n/h477033%209%2042.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/halloween-511510079-mmed.jpg", NOCHE DE HALLOWEEN
+https://ia801508.us.archive.org/19/items/n-0c-43-63-h-477033-11/n0c43%2063%20h477033%2011.mp4?cnt=0
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/i_know_what_you_did_last_summer-786691632-mmed.jpg" , SE LO QUE HICIERON EL VERANO PASADO
+https://ia601500.us.archive.org/27/items/l-46un-4-1/9454d0%201.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/i_still_know_what_you_did_last_summer-729076148-mmed.jpg" , TODAVIA SE LO QUE HICIERON EL VERANO PASADO
+https://ia601500.us.archive.org/27/items/l-46un-4-1/9454d0%202.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/the_texas_chainsaw_massacre-800892490-mmed.jpg", MASACRE DE TEXAS
+https://ia601500.us.archive.org/27/items/l-46un-4-1/73x45%201.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/texas_chainsaw_massacre_the_beginning-161802890-mmed.jpg", MASACRE DE TEXAS EL ORIGEN
+https://ia601500.us.archive.org/27/items/l-46un-4-1/73x45%202.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/texas_chainsaw_3d_leatherface_3d-320406769-mmed.jpg", MASCARE DE TEXAS HERENCIA MALDITA
+https://ia601500.us.archive.org/27/items/l-46un-4-1/73x45%203.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/leatherface-620085863-mmed.jpg", LEATHERFACE
+https://ia601500.us.archive.org/27/items/l-46un-4-1/73x45%204.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/bloodsport-871331799-mmed.jpg", CONTACTO SANGRIENTO
+https://ia601408.us.archive.org/22/items/4-n-637170-2/c0n74c70.mp4
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/double_impact-961258239-mmed.jpg",DOBLE IMPACTO
+https://ia601409.us.archive.org/25/items/d-0873-1m-94c-70/d0873%201m94c70.mp4
+
+#EXTINF:0 group-title="CLASICAS"tvg-logo="https://pics.filmaffinity.com/the_quest-512025944-mmed.jpg", LA BUSQUEDA
+https://ia601409.us.archive.org/25/items/d-0873-1m-94c-70/8us0u364.mp4?cnt=0
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/kickboxer-470480946-mmed.jpg", KICKBOXER
+https://ia601409.us.archive.org/25/items/d-0873-1m-94c-70/K1k%2080x3r.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_maze_runner-377064363-mmed.jpg", MAZE RUNNER
+https://ia601400.us.archive.org/22/items/c-0rr-3r-3/C0rr3r%201.mp4?cnt=0
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/maze_runner_the_scorch_trials-944377647-mmed.jpg", MAZE RUNNER LAS PRUEBAS
+https://ia601400.us.archive.org/22/items/c-0rr-3r-3/C0rr3r%202.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/maze_runner_the_death_cure-119590517-mmed.jpg", MAZE RUNNER LA CURA
+https://ia601400.us.archive.org/22/items/c-0rr-3r-3/C0rr3r%203.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_fast_and_the_furious-493327751-mmed.jpg",RAPIDO Y FURIOSO
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%202%20%202003%20REMUX%204K%20HDR%20Latino.mkv
-#EXTINF:0 ,RAPIDO Y FURIOSO 3
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/2_fast_2_furious_aka_the_fast_and_the_furious_2-199382456-mmed.jpg",RAPIDO Y FURIOSO 2
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%203%20-%20Reto%20Tokio%202006%20REMUX%204K%20HDR%20Latino.mkv
-#EXTINF:0 ,RAPIDO Y FURIOSO 4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_fast_and_the_furious_tokyo_drift-349229245-mmed.jpg",RAPIDO Y FURIOSO 3
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%204%202009%20REMUX%204K%20HDR%20Latino.mkv
-#EXTINF:0 ,RAPIDO Y FURIOSO 5
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/fast_and_furious_4-818035556-mmed.jpg",RAPIDO Y FURIOSO 4
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%205%202011%20REMUX%204K%20HDR%20Latino.mkv
-#EXTINF:0 ,RAPIDO Y FURIOSO 6
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/fast_five_the_fast_and_the_furious_5-355651909-mmed.jpg",RAPIDO Y FURIOSO 5
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%206%20%202013%20REMUX%204K%20HDR%20Latino.mkv
-#EXTINF:0 ,RAPIDO Y FURIOSO 7
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/fast_furious_6_fast_and_furious_6-240822945-mmed.jpg",RAPIDO Y FURIOSO 6
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%207%20%202015%20REMUX%204K%20HDR%20Latino.mkv
-#EXTINF:0 ,RAPIDO Y FURIOSO 8
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/furious_7_fast_furious_7-904800766-mmed.jpg",RAPIDO Y FURIOSO 7
 http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%208%20%202017%20REMUX%204K%20HDR%20Latino.mkv
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_fate_of_the_furious-720946563-mmed.jpg",RAPIDO Y FURIOSO 8
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/RAPIDOS%20Y%20FURIOSOS%208.mp4
+
 #EXTINF:0 ,RAPIDO Y FURIOSO 9
 http://51.77.66.14/R%c3%a1pido%20y%20Furioso%209%20(2021)%201080p%20Dual.mkv
+
 #EXTINF:0 ,RYF HOBBS Y SHAW
 http://51.77.66.14/R%c3%a1pidos%20y%20Furiosos%20-%20Hobbs%20&%20Shaw%20(2019)%20BDRip%201080p%20La/R%c3%a1pidos%20y%20Furiosos%20-%20Hobbs%20&%20Shaw%20(2019)%20BDRip%201080p%20Latino.mkv
-#EXTINF:0 ,JOKER
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/american_pie-976453006-mmed.jpg",AMERICAN PIE 
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/American%20Pie%201.mkv
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/american_pie_2-872126816-mmed.jpg",AMERICAN PIE 2
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/American%20Pie%202.mkv
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/american_wedding_aka_american_pie_the_wedding-896185702-mmed.jpg",AMERICAN PIE 3
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/American%20Pie%203%20La%20boda.mkv
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/back_to_the_future-100822308-mmed.jpg", Volver al Futuro 
+https://archive.org/download/qwerty_202001/qwerty.mkv
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/back_to_the_future_part_ii-865007932-mmed.jpg", Volver al Futuro 2 
+https://archive.org/download/qwerty2/qwerty2.mkv
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="https://pics.filmaffinity.com/back_to_the_future_part_iii-223713634-mmed.jpg", Volver al Futuro 3 
+https://archive.org/download/qwerty3/qwerty3.mkv
+
+#EXTINF:0 group-title="NIÑOS" tvg-logo="https://pics.filmaffinity.com/shark_tale-218737539-mmed.jpg",ESPANTATIBURONES
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/Nuevo%20pelis/El%20espantatiburones%20(2004).mp4
+
+#EXTINF:0 group-title="NIÑOS" tvg-logo="https://pics.filmaffinity.com/coco-155051069-mmed.jpg",COCO
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/dibujos/COCO.mkv
+
+#EXTINF:0 group-title="NIÑOS" tvg-logo="https://pics.filmaffinity.com/aladdin-443262605-mmed.jpg",ALADIN
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Aladino%202019.mkv
+
+#EXTINF:0 group-title="VARIOS" tvg-logo="https://pics.filmaffinity.com/edge_of_tomorrow-632023834-mmed.jpg",AL FILO DEL MAÑANA
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Al%20filo%20del%20ma%c3%b1ana.mp4
+
+#EXTINF:0 group-title="NIÑOS" tvg-logo="https://pics.filmaffinity.com/how_to_train_your_dragon_2-726409126-mmed.jpg",COMO ENTRENAR A TU DRAGON 2
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/C%c3%b3mo%20entrenar%20a%20tu%20drag%c3%b3n%202.mp4
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/paranormal_activity_2-726661508-mmed.jpg",ACTIVIDAD PARANORMAL 2
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/ACTIVIDAD%20PARANORMAL%202.mkv
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/the_final_destination_final_destination_4_aka_final_destination_death_trip_3d-201127616-mmed.jpg",DESTINO FINAL 4
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/Destino%20Final%204%20%5b720p%5d.mp4
+
+#EXTINF:0 group-title="VARIOS" tvg-logo="https://pics.filmaffinity.com/i_robot-964272233-mmed.jpg",YO ROBOT
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Yo,%20Robot.mkv
+
+#EXTINF:0 group-title="NIÑOS" tvg-logo="https://pics.filmaffinity.com/disney_s_pinocchio-304581719-mmed.jpg",PINOCHO
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Pinocho.mkv
+
+#EXTINF:0 group-title="VARIOS" tvg-logo="https://pics.filmaffinity.com/gone_in_60_seconds-385080720-mmed.jpg",60 SEGUNDOS
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/60%20segundos.mkv
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/escape_plan-288668079-mmed.jpg",PLAN DE ESCAPE
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Copy%20of%20Escape.Plan.2013.mp4
+
+#EXTINF:0 group-title="SAGAS" tvg-logo="https://pics.filmaffinity.com/escape_plan_2_hades-555086814-mmed.jpg",PLAN DE ESCAPE 2
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Copy%20of%20Escape.plan.2.hades.2018.1080p.mp4
+
+#EXTINF:0 group-title="VARIOS" tvg-logo="https://pics.filmaffinity.com/the_book_of_eli-553565120-mmed.jpg",EL LIBRO DE ELI
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/El%20libro%20de%20Eli.mkv
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/deep_blue_sea-830403670-mmed.jpg",ALERTA EN LO PROFUNDO
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Alerta%20en%20lo%20profundo.mkv
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/deep_blue_sea_2-423550670-mmed.jpg",ALERTA EN LO PROFUNDO 2
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Alerta%20en%20lo%20profundo%202.mkv
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/deep_blue_sea_3-680442315-mmed.jpg",ALERTA EN LO PROFUNDO 3
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Alerta%20en%20lo%20profundo%203.mkv
+
+#EXTINF:0 group-title="TERROR" tvg-logo="https://pics.filmaffinity.com/el_cadaver_de_anna_fritz-397302910-mmed.jpg",EL CADAVER DE ANA FRITZ
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NETFLIX/Ver%20El%20cad%c3%a1ver%20de%20Anna%20Fritz%20Online%20(2015).mp4
+
+#EXTINF:0 group-title="NIÑOS" tvg-logo="https://pics.filmaffinity.com/toy_story_4-462756582-mmed.jpg", TOY STORY 4
+http://51.77.66.14/Toy%20Story%204%20(2019)%20ChileBT.mkv
+
+#EXTINF:0 group-title="NIÑOS" tvg-logo="https://pics.filmaffinity.com/pokemon_detective_pikachu-220563876-mmed.jpg",POKEMON DETECT. PIKACHU
+http://51.77.66.14/Pokemon.Detective.Pikachu.(2019).1080p.BDRip-Latino.mkv
+
+#EXTINF:0 group-title="CLASICAS" tvg-logo="",VAMPIROS DE JOHN CARPENTER
+http://digitalmarbella.com/doc/Peliculas/vampiros%20de%20john%20carpenter%20pelicula%20completa%20en%20espan%cc%83ol%20(288p_25fps_H264-128kbit_AAC).mp4
+
+#EXTINF:0  group-title="NIÑOS" ,SPACE JAM
+http://51.77.66.14/Space.Jam.a.New.Legacy.2021.1080p.mkv
+
+#EXTINF:0  group-title="NIÑOS" ,DETECTIVE PICACHU
+http://51.77.66.14/Pokemon.Detective.Pikachu.(2019).1080p.BDRip-Latino.mkv
+
+#EXTINF:0 group-title="VARIOS" ,HISTORIAS CRUZADAS
+http://www.educacionadistancia.eneo.unam.mx/peliculas/Historias%20Cruzadas1.mp4
+
+#EXTINF:0  group-title="VARIOS" ,ROMA
+http://51.77.66.14/Roma.2018.1080p.WEB-DL.x264-iKA.mkv
+
+#EXTINF:0  group-title="NIÑOS" ,DUMBO
+http://51.77.66.14/Dumbo%20(2019)%20BDRip%201080p%20Latino.mkv
+
+#EXTINF:0 group-title="VARIOS" ,JOKER
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/Ver%20Joker%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:0 ,12 HORAS PARA SOBREVIVIR
+
+#EXTINF:0 group-title="TERROR" ,12 HORAS PARA SOBREVIVIR
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/12%20HORAS%20PARA%20SOBREVIVIR.mp4
-#EXTINF:0 ,ANNABELLE 1
+
+#EXTINF:0 group-title="TERROR" ,ANNABELLE 1
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/ANABELLE%201.mp4
-#EXTINF:0 ,CRITTERS
+
+#EXTINF:0 group-title="TERROR" ,CRITTERS
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/Critters%20Attack!.mp4
-#EXTINF:0 ,DESTINO FINAL
+
+#EXTINF:0 group-title="TERROR" ,DESTINO FINAL
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/Destino%20Final%201%20%5b720p%5d.mp4
-#EXTINF:0 ,EL NIÑO 2
+
+#EXTINF:0 group-title="TERROR" ,EL NIÑO 2
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/El%20ni%c3%b1o%202%20%5b720p%5d.mp4
-#EXTINF:0 ,EL BOSQUE MALDITO
+
+#EXTINF:0 group-title="TERROR" ,EL BOSQUE MALDITO
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/%20El%20bosque%20maldito%20(2019).mp4
-#EXTINF:0 ,INSIDIUS CAPITULO 3
+
+#EXTINF:0 group-title="TERROR" ,INSIDIUS CAPITULO 3
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/INSIDIOUS%20CAP%c3%8dTULO%203.mp4
-#EXTINF:0 ,SUEÑO PROFUNDO
+
+#EXTINF:0 group-title="TERROR" ,SUEÑO PROFUNDO
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/SUE%c3%91O%20PROFUNDO.mp4
-#EXTINF:0 ,BIENVENIDOS A ZOMBILAND
+
+#EXTINF:0 group-title="TERROR" ,BIENVENIDOS A ZOMBILAND
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/Ver%20Bienvenidos%20a%20Zombieland%20Online%20(2009)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:0 ,EL CONJURO EXPEDIENTE WARREN
+
+#EXTINF:0 group-title="TERROR" ,EL CONJURO EXPEDIENTE WARREN
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/Ver%20El%20conjuro%20_%20Expediente%20Warren-%20The%20Conjuring%20Online%20(2013)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:0 ,LOGAN
+
+#EXTINF:0 group-title="VARIOS" ,LOGAN
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/logan.mp4
-#EXTINF:0 ,WOLVERIN INMORTAL
+
+#EXTINF:0 group-title="VARIOS" ,WOLVERIN INMORTAL
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/Wolverine%20Inmortal.mp4
+
